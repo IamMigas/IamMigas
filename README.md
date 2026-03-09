@@ -1,17 +1,17 @@
-# 🏎️ Salve, eu sou o IamMigas! 
+# 🏎️ Boas eu sou o Migas! 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxfUqm395S0/giphy.gif" width="300" />
 </p>
 
-### 🛠️ O que eu ando a aprontar:
+### 🛠️ O que eu ando a fazer:
 - 💨 **Velocidade:** Mais rápido a fazer `Ctrl+C` que a mota da foto.
 - 🐛 **Bugs:** Eu não os corrijo, eu coleciono-os como se fossem Pokémons.
 - 🛠️ **Stack:** Trabalho à base de café e desculpas esfarrapadas.
 
 ---
 
-### 📊 Meus Status (Animação Dinâmica)
+### 📊 Meus Status:
 Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 
 <p align="left">
