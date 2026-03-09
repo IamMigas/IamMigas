@@ -27,3 +27,9 @@ Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 ![Troll Skill](https://img.shields.io/badge/Gambiarra-Level%20Infinite-red?style=for-the-badge&logo=ghost)
 ![Copy Paste](https://img.shields.io/badge/Copy%20Paste-Pro-blue?style=for-the-badge&logo=git)
 ![Cafeína](https://img.shields.io/badge/Café-Required-orange?style=for-the-badge&logo=coffeescript)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/NÃO-CLIQUE_AQUI-red?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
