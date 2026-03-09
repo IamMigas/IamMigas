@@ -1,4 +1,4 @@
-# 🏎️ Salve, eu sou o IamMigas! 
+# 🏎️ Eu sou o Migas! 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxfUqm395S0/giphy.gif" width="300" />
