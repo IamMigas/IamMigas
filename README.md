@@ -19,7 +19,7 @@ Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMigas&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 ### 🕹️ Skill Tree (Nível Troll)
 ![Troll Skill](https://img.shields.io/badge/Gambiarra-Level%20Infinite-red?style=for-the-badge&logo=ghost)
