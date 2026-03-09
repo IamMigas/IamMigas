@@ -1,12 +1,36 @@
-# ⚡ IamMigas (O terror do Stack Overflow)
+# 🏎️ Salve, eu sou o IamMigas! 
 
-### 🧐 Sobre mim:
-- 🏎️ Corro mais que o `npm install` em dia de chuva.
-- 💻 Especialista em copiar código que eu não entendo e rezar para compilar.
-- 🛠️ Minha principal stack é: **HTML** (How To Meet Ladies) e **CSS** (Coffee, Sleep, Sadness).
-- 🚩 Se o código funciona, eu não toco. Se não funciona, eu culpo o estagiário (mesmo sendo eu).
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxfUqm395S0/giphy.gif" width="300" />
+</p>
 
-### 📊 Meus Status de "Gênio":
-![Stats do Migas](https://github-readme-stats.vercel.app/api?username=IamMigas&show_icons=true&theme=dracula&hide_border=true)
+### 🛠️ O que eu ando a aprontar:
+- 💨 **Velocidade:** Mais rápido a fazer `Ctrl+C` que a mota da foto.
+- 🐛 **Bugs:** Eu não os corrijo, eu coleciono-os como se fossem Pokémons.
+- 🛠️ **Stack:** Trabalho à base de café e desculpas esfarrapadas.
 
-> "Programar é 10% escrever código e 90% explicar por que o código que você escreveu não está funcionando."
+---
+
+### 📊 Meus Status (Animação Dinâmica)
+Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IamMigas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMigas&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🕹️ Skill Tree (Nível Troll)
+![Troll Skill](https://img.shields.io/badge/Gambiarra-Level%20Infinite-red?style=for-the-badge&logo=ghost)
+![Copy Paste](https://img.shields.io/badge/Copy%20Paste-Pro-blue?style=for-the-badge&logo=git)
+![Cafeína](https://img.shields.io/badge/Café-Required-orange?style=for-the-badge&logo=coffeescript)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Não%20toques%20no%20meu%20código%20que%20ele%20morde&fontSize=20" />
+</p>
