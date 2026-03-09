@@ -14,9 +14,7 @@
 ### 📊 Meus Status (Animação Dinâmica)
 Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamMigas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMigas&theme=tokyonight&hide_border=true" />
