@@ -11,17 +11,14 @@
 
 ---
 
-### 📊 Meus Status:
-Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
-
+### 📊 Meus Status (Altamente Duvidosos)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamMigas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamMigas&show_icons=true&theme=blood&hide_border=true&count_private=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMigas&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMigas&theme=blood&hide_border=true" />
 </p>
-
 ---
 
 ### 🕹️ Skill Tree (Nível Troll)
