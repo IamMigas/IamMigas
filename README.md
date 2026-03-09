@@ -32,5 +32,12 @@ Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Não%20toques%20no%20meu%20código%20que%20ele%20morde&fontSize=20" />
+  <a href="https://github.com/IamMigas">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=ERROR%20404:%20SKILL%20NOT%20FOUND&fontSize=40&animation=fadeIn&fontAlignY=40&desc=O%20meu%20código%20é%20uma%20obra%20de%20arte%20(tipo%20um%20PICASSO%20muito%20torto)&descAlignY=65&descSize=15" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26n6WywWMrvX0Zlyw/giphy.gif" width="200" />
 </p>
