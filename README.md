@@ -26,8 +26,11 @@ Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 ![Copy Paste](https://img.shields.io/badge/Copy%20Paste-Pro-blue?style=for-the-badge&logo=git)
 ![Cafeína](https://img.shields.io/badge/Café-Required-orange?style=for-the-badge&logo=coffeescript)
 
-### 💭 Pensamento do Dia:
+### 💭 Pensamento Troll do Dia:
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Se+a+vida+te+der+limões,+taca+no+motorista;A+minha+paciência+é+como+o+meu+dinheiro:+não+existe;Estado+civil:+com+sono;Se+não+podes+ajudar,+pelo+menos+atrapalha;O+importante+não+é+ganhar,+é+fazer+o+outro+perder" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Frase do Dia Automática" />
 </p>
+
+---
+<sub>*Nota: Esta frase muda sozinha a cada 24h. Se for profunda demais, ignora, a culpa é do bot.*</sub>
