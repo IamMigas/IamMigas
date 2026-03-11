@@ -25,3 +25,8 @@ Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 ![Troll Skill](https://img.shields.io/badge/Gambiarra-Level%20Infinite-red?style=for-the-badge&logo=ghost)
 ![Copy Paste](https://img.shields.io/badge/Copy%20Paste-Pro-blue?style=for-the-badge&logo=git)
 ![Cafeína](https://img.shields.io/badge/Café-Required-orange?style=for-the-badge&logo=coffeescript)
+
+### 💭 Pensamento do Dia:
+<p align="center">
+  <img src="https://v2.jokeapi.dev/joke/Any?format=svg&type=single&lang=pt" alt="Piada do Dia" />
+</p>
