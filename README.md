@@ -27,6 +27,7 @@ Aqui em baixo os gráficos mexem-se sozinhos para parecer que eu sou ocupado:
 ![Cafeína](https://img.shields.io/badge/Café-Required-orange?style=for-the-badge&logo=coffeescript)
 
 ### 💭 Pensamento do Dia:
+
 <p align="center">
-  <img src="https://v2.jokeapi.dev/joke/Any?format=svg&type=single&lang=pt" alt="Piada do Dia" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Se+a+vida+te+der+limões,+taca+no+motorista;A+minha+paciência+é+como+o+meu+dinheiro:+não+existe;Estado+civil:+com+sono;Se+não+podes+ajudar,+pelo+menos+atrapalha;O+importante+não+é+ganhar,+é+fazer+o+outro+perder" />
 </p>
